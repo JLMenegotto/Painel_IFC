@@ -1,6 +1,6 @@
 # Painel_IFC+Revit
 
-Painel de consulta de elementos e tipos enumerados em IFC e as BuiltInCategory de Revit 2023
+Painel de consulta de correspondências entre os elementos e tipos enumerados em IFC e as BuiltInCategory de Revit 2023
 
 As BuiltInCategory de Revit são um dos meios de filtragem decategorias de Revit que pode ser utilizada em mecanismos e APIs programadas com diversos fins 
 em Revit O método embaixo ilustra um exemplo de uso. 
