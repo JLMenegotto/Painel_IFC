@@ -1,4 +1,4 @@
-# Painel_IFC
+# Painel_IFC+Revit
 
 Painel de consulta de Categorias e tipos enumerados em IFC e Revit
 
